@@ -26,5 +26,4 @@ public class Movie {
     private List<String> genres;
     @DocumentReference
     private List<Review> reviewIds;
-
 }
